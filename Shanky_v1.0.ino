@@ -6,21 +6,13 @@
  * The colors and settings can be changed as per requirement
  * The Lines are commented with instructions and suggestions 
  * 
- * The Set of LEDs will be connected to red color distributor 
- * There are two Sets of LEDs
- * 
- * Please make the connections correctly For LEDs and Mic
- * Power the Arduino and 1 Set of LEDs to 1 Powerbank
- * Power another Set of Leds to another Powerbank 
- * 
  * Tune the mic for adjusting its sensitivity 
- * The adjustment of mic will be combination of Tuning its on Board Potentiometer and cahnging values in Code
+ * The adjustment of mic will be combination of Tuning its on Board Potentiometer and changing values in Code
  * 
  * Note: Keep the code Clean and Name the version as v1.0 and save it with this in name to prevent confusion 
  * Save the working code on cloud to prevent loss of data
  * 
- * For any more query 
- * Whatsapp me or Email me 
+ * For any more query
  * Instagram: shanky_rt
  * 
  * 01-10-2019
